@@ -1,4 +1,4 @@
-FROM node:15.5.0-alpine3.12
+FROM node:15.12.0-alpine3.13
 
 RUN npm install -g @vue/cli
 
